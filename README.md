@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Blossom A.:sparkles:</h1>
-<h3 align="center">A passionate and expert Python Developer</h3>
+<h3 align="center">A Passionate and Expert Python Developer</h3>
 
 - 🔭 I’m currently working on **Can't say so... Stay Tuned**
 
