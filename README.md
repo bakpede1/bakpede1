@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Blossom A.</h1>
-<h3 align="center">A passionate Python Developer and hopeful Computer Forensics Analyst</h3>
+<h1 align="center">Hi, I'm Blossom A.:sparkles:</h1>
+<h3 align="center">A passionate Python Developer</h3>
 
-- 🔭 I’m currently working on **Stay tuned...**
+- 🔭 I’m currently working on **Can't say so... Stay Tuned**
 
 - 🌱 I’m currently learning **C++, Java**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
-- 💬 Ask me about **python or C++**
+- 💬 Ask me about **Python or C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
