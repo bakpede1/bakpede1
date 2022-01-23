@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Blossom A.:sparkles:</h1>
 <h3 align="center">A Passionate and Expert Python Developer</h3>
 
-- 🔭 I’m currently working on **Some Projects... Stay Tuned**
+- 🔭 I’m currently working on **Some projects... so stay tuned!**
 
 - 🌱 I’m currently learning **C++, Java**
 
