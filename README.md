@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Blossom A.:sparkles:</h1>
 <h3 align="center">A passionate and expert python developer</h3>
 
-- :large_blue_diamond:🔭 I’m currently working on **some projects.. so stay tuned!**
+- :large_blue_diamond: I’m currently working on **some projects.. so stay tuned!**
 
-- :large_blue_diamond:🌱 I’m currently learning **C++, Java**
+- :blue_book: I’m currently learning **C++, Java**
 
-- :large_blue_diamond:👯 I’m looking to collaborate on **Python projects**
+-  I’m looking to collaborate on **Python projects**
 
-- :large_blue_diamond:💬 Ask me about **Python or C++**
+- 💬 Ask me about **Python or C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
