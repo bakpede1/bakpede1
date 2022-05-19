@@ -3,7 +3,7 @@
 
 - I’m currently working on **some projects.. so stay tuned!**
 
-- I’m currently learning **C++, Java, and Blockchain**
+- I’m currently learning **C++, Java, and Blockchain Motoko/Rust**
 
 - I’m looking to collaborate on **Python projects**
 
