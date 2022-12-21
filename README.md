@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Blossom A</h1>
 <h3 align="center">A passionate and expert Python Developer</h3>
 
-- I’m currently working on **some projects.. so stay tuned!**
+- I’m currently learning **Assembly, C, PHP, and JScript**
 
-- I’m currently learning **C++, Java, and Blockchain Motoko/Rust**
-
-- I’m looking to collaborate on **Python projects**
-
-- 💬 Ask me about **Python or C++**
+- 💬 Ask me about **anything C++ or Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
