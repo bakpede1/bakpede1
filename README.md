@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Blossom A</h1>
-<h3 align="center">A passionate and expert Python Developer</h3>
+<h3 align="center">A passionate Python and C++ Developer</h3>
 
 - I’m currently learning **Assembly, C, PHP, and JScript**
 
