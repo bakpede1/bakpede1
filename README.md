@@ -9,9 +9,11 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 
 <h5>Projects</h5>
 <p>
-Project 1 | Word Search : A brief description of the project and its main features.
-Project 2 | FriendFinder (Facebook Inspired): Explore another exciting project I've worked on and see how it can benefit you.
-Project 3 | Scheduler: Discover a fascinating project that showcases my skills and creativity.
+  <ul>
+<li>Project 1 | Word Search : A brief description of the project and its main features.</li>
+<li>Project 2 | FriendFinder (Facebook Inspired): Explore another exciting project I've worked on and see how it can benefit you.</li>
+<li>Project 3 | Scheduler: Discover a fascinating project that showcases my skills and creativity.</li>
+    </ul>
 </p>
 
 <h5> Skills </h5>
