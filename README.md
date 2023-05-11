@@ -35,7 +35,7 @@ Project 3 | Scheduler: Discover a fascinating project that showcases my skills a
 <p>
 Additional Links:
 <a href="https://linkedin.com/in/blossom-ea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="bakpede1.githbu.io/cv" target="blank"><img align="center" src="/img" alt="Personal Site" height="30" width="40" /></a>
+<a href="bakpede1.githbu.io/cv" target="blank"><img align="center" src="/img.png" alt="Personal Site" height="30" width="40" /></a>
 </p>  
 
 
