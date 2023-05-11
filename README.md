@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to My Github | Blossom A</h1>
-<h3 align="center">Expert Python/C++ Developer and IT Professional</h3>
+<h3 align="center">Expert C++/Python Developer and IT Professional</h3>
 
 <h5>Introduction</h5>
 <p>
-About Me
+About Me:  
 I am Blossom, a passionate and driven individual with a strong interest in technology and its impact on our daily lives. I enjoy solving problems, learning new things, and collaborating with others to create meaningful and innovative solutions.
 </p>
 
