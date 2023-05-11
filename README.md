@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Blossom A</h1>
-<h3 align="center">A passionate Python and C++ Developer</h3>
+<h1 align="center">Welcome to My Github | Blossom A</h1>
+<h3 align="center">Expert Python/C++ Developer and IT Professional</h3>
 
 <h5>Introduction</h5>
 <p>
