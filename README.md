@@ -15,14 +15,11 @@ Project 3 | Scheduler: Discover a fascinating project that showcases my skills a
 </p>
 
 <h5> Skills </h5>
-<p>
   <ul>
-<li>Programming Languages: Python, Java, JavaScript</li>
-<li>Web Development: HTML, CSS, JavaScript, React</li>
+<li>Programming Languages: Python, Java, JavaScript, C++</li>
+<li>Web Development: HTML, CSS</li>
 <li>Database Management: SQL, MongoDB</li>
-<li>Version Control: Git, GitHub</li>
-    
-    </ul>
+ </ul>
 
 <h5>Interests</h5>
 <h6>Besides technology, I have a range of other interests that shape who I am:</h6>
