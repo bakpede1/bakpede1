@@ -13,7 +13,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 <li>Project 1 | Word Search : A brief description of the project and its main features.</li>
 <li>Project 2 | FriendFinder (Facebook Inspired): Explore another exciting project I've worked on and see how it can benefit you.</li>
 <li>Project 3 | Scheduler: Discover a fascinating project that showcases my skills and creativity.</li>
-    <li>and much more! </li>
+    <li>And much more! </li>
     </ul>
 </p>
 
