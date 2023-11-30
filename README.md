@@ -13,24 +13,31 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 <li>Project 1 | Word Search : A brief description of the project and its main features.</li>
 <li>Project 2 | FriendFinder (Facebook Inspired): Explore another exciting project I've worked on and see how it can benefit you.</li>
 <li>Project 3 | Scheduler: Discover a fascinating project that showcases my skills and creativity.</li>
-    <li>And much more! </li>
-    </ul>
+<li>And much more! </li>
+</ul>
 </p>
 
 <h5> Skills </h5>
   <ul>
-<li>Programming Languages: Python, Java, JavaScript, C++</li>
+<li>Programming Languages: Python, Java, JavaScript, C, C++, Scheme, Prolog</li>
 <li>Web Development: HTML, CSS</li>
-<li>Database Management: SQL, MongoDB</li>
+<li>Database Management: SQL, MongoDB, HubSpot</li>
+<li>Cybersecurity: Splunk, Wireshark, Linux</li>
  </ul>
 
 <h5>Interests</h5>
 <h6>Besides technology, I have a range of other interests that shape who I am:</h6>
 <ul>
-<li>Reading: I'm an avid reader and enjoy exploring various genres, from science fiction to personal development.</li>
+<li>Reading: I love learning new technology concepts and enjoy exploring various IT subjects, like AI and Networks, as well as personal development.</li>
 <li>Fitness: Staying active and maintaining a healthy lifestyle is important to me. I find joy in activities like running.</li>
-<li>Community Engagement: I believe in giving back to the community and have volunteered with local organizations to make a positive impact.</li>
+<li>Community Engagement: I believe in helping students achieve academic success via effective tutorial services for Computer Science.</li>
 </ul>
+
+<h5> Notable Recognitions </h5>
+  <ul>
+<li>2022 Cyber School Award | UMBC Center of Women in Technology</li>
+<li>2023 Aspirations in Computing Impact Award</li>
+ </ul>
   
 <h5>Contact Me</h5>
 <p>Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to say hello! You can contact me via my LinkedIn.</p>
