@@ -17,6 +17,14 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 </ul>
 </p>
 
+<h5>Collaborative Projects</h5>
+<p>
+  <ul>
+<li>SecurePass | A local password saver for your desktop device</li>
+<li>SecurityVPN | Looking forward to learning more about VPN and creating one from scratch!</li>
+</ul>
+</p>
+
 <h5> Skills </h5>
   <ul>
 <li>Programming Languages: Python, Java, JavaScript, C, C++, Scheme, Prolog</li>
@@ -26,7 +34,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
  </ul>
 
 <h5>Interests</h5>
-<h6>In addition to Computer Science, I have a range of other interests that shape who I am:</h6>
+<h6>In addition to computer science and cybersecurity, I have a range of other interests that shape who I am:</h6>
 <ul>
 <li>Reading: I love learning new technology concepts and enjoy exploring various IT subjects, like AI and Networks, as well as personal development.</li>
 <li>Fitness: Staying active and maintaining a healthy lifestyle is important to me. I find joy in activities like running.</li>
