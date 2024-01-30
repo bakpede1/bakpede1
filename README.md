@@ -20,8 +20,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 <h5>Collaborative Projects</h5>
 <p>
   <ul>
-<li>SecurePass | A local password saver for your desktop device</li>
-<li>SecurityVPN | Looking forward to learning more about VPN and creating one from scratch!</li>
+<li>SecurePass | A local password saver for secure password storage!</li>
 </ul>
 </p>
 
