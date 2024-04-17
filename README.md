@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to My Github | Blossom Akpedeye</h1>
-<h3 align="center">Expert Cybersecurity Analyst and Python Developer</h3>
+<h1 align="center">Welcome to My Github | Hello there! </h1>
+<h3 align="center">Expert Cybersecurity Engineer and Software Developer</h3>
 
 <h5>Introduction</h5>
 <p>
