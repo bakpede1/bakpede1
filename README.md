@@ -28,7 +28,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
   <ul>
 <li>Programming Languages: Python, Java, JavaScript, C, C++, Scheme, Prolog</li>
 <li>Web Development: HTML, CSS</li>
-<li>Database Management: SQL, MongoDB, HubSpot</li>
+<li>Database Management: SQL, HubSpot</li>
 <li>Cybersecurity: Splunk, Wireshark, Linux</li>
  </ul>
 
