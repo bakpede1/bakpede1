@@ -42,7 +42,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 
 <h5> Notable Recognitions </h5>
   <ul>
-<li>2022 Cyber School Award | UMBC Center of Women in Technology</li>
+<li>2022 Cyber Scholar Award | UMBC Center of Women in Technology</li>
 <li>2023 Aspirations in Computing Impact Award</li>
  </ul>
   
