@@ -32,8 +32,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 
 <h5> Notable Recognitions </h5>
   <ul>
-<li>2022 Cyber Scholar Award | UMBC Center for Women in Technology</li>
-<li>2023 Aspirations in Computing Impact Award | NCWIT </li>
+<li>2023 Aspirations in Computing Impact Award | NCWIT | Awarded for impact in tutoring students CS and STEM with Savvycle Online Tutoring</li>
  </ul>
   
 <h5>Contact Me</h5>
