@@ -12,7 +12,7 @@ I am Blossom, a passionate and driven individual with a strong interest in techn
 <li> Word Search : A brief description of the project and its main features.</li>
 <li> FriendFinder (Facebook Inspired): Explore another exciting project I've worked on and see how it can benefit you.</li>
 <li> Scheduler: Discover a fascinating project that showcases my skills and creativity.</li>
-</ol>
+  <li>MealMe: Check out a Flask-Web Application for easily creating meal-plans (UMBC Senior Group Project Showdown)</li>
 </p>
 
 <h5>Collaborative Projects</h5>
