@@ -1,4 +1,4 @@
-<h3 align="center">Software-Dev-Princess (❁´◡`❁) | Online-Tutoring | Cybersecurity</h3>
+<h3 align="center">Software-Dev (❁´◡`❁) | Online-Tutoring | Cybersecurity</h3>
 
 <h5>About</h5>
 <p>Blossom, a tutor and developer specializing in STEM and computer science with a focus on creating useful solutions via development projects.</p>
