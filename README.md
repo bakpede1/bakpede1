@@ -5,8 +5,8 @@
 
 <h5>Projects</h5>
 <ul>
-  <li><b>MealMe:</b> Flask-based app for meal planning, featured in UMBC's Senior Group Project Showdown.</li>
-  <li><b>SecurePass:</b> A local password saver for secure storage.</li>
+  <li><b>MealMe:</b> Flask-based app for meal planning</li>
+  <li><b>SecurePass:</b> A local password saver for secure storage</li>
 </ul>
 
 <h5>Skills</h5>
