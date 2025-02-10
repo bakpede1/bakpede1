@@ -1,5 +1,5 @@
 <h5>About</h5>
-<p>Blossom Akpedeye is a dynamic tutor, software developer, and cybersecurity enthusiast with a passion for STEM and computer science. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.</p>
+<p>Blossom Akpedeye is a dynamic tutor, full-stack software developer, and cybersecurity enthusiast with a passion for STEM and computer science. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.</p>
 
 <h5>Projects</h5>
 <ul>
