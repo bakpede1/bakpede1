@@ -23,7 +23,7 @@
 </ul>
 
 <h3>Contact</h3>
-<p>Though I thrive in quiet productivity, I welcome meaningful connections and collaborations. Serious inquiries only—let’s make things happen.📌</p>
+<p>Though I thrive in quiet productivity, I welcome meaningful connections and collaborations. Serious inquiries only—let’s make things happen.</p>
 
 <p> 
   <a href="https://linkedin.com/in/blossom-ea" target="blank"> LinkedIn</a> | 
