@@ -1,13 +1,13 @@
-<h5>About</h5>
+<h2>About</h2>
 <p>Blossom Akpedeye is a dynamic tutor, full-stack software developer, and cybersecurity enthusiast with a passion for STEM and computer science. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.</p>
 
-<h5>Projects</h5>
+<h2>Projects</h2>
 <ul>
   <li><b>💡 MealMe </b>– A streamlined Flask-based meal planning application</li>
   <li><b>🔐 SecurePass </b> – A secure, locally stored password manager</li>
 </ul>
 
-<h5>Technical Skills</h5>
+<h2>Technical Skills</h2>
 <ul>
    <li>💻 <strong>Software Development:</strong> Python, Java, Kotlin, C, C++</li>
         <li>🌍 <strong>Web Technologies:</strong> HTML, CSS, JavaScript</li>
@@ -17,12 +17,12 @@
     </ul>
 </ul>
 
-<h5>Recognition</h5>
+<h2>Recognition</h2>
 <ul>
   <li><b>🏆 2023 NCWIT Impact Award</b> Honored for excellence in computer science education through <b>SavvyCle Online Tutoring</b> ✨</li>
 </ul>
 
-<h5>Contact</h5>
+<h2>Contact</h2>
 <p>Though I thrive in quiet productivity, I welcome meaningful connections and collaborations. Serious inquiries only—let’s make things happen.</p>
 
 <p> 📌
