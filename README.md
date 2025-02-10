@@ -26,7 +26,7 @@
 <p>Though I thrive in quiet productivity, I welcome meaningful connections and collaborations. Serious inquiries only—let’s make things happen.</p>
 
 <p>
-  <a href="https://linkedin.com/in/blossom-ea" target="blank"> LinkedIn</a>
-  <a href="https://bakpede1.github.io/cv" target="blank">Personal Site</a>
+  <a href="https://linkedin.com/in/blossom-ea" target="blank"> LinkedIn</a> | 
+  <a href="https://bakpede1.github.io/cv" target="blank">Personal Site</a> | 
   <a href="https://docs.google.com/document/d/1FnbpPd3kmRGk97Om0PRNJu6-ExEv0QlJyKgDT_Tfo1g/edit?usp=sharing" target="blank">Resume/CV</a>
 </p>
