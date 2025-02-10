@@ -1,31 +1,32 @@
-<h3 align="center">Software-Dev (❁´◡`❁) | Online-Tutoring | Cybersecurity</h3>
-
 <h5>About</h5>
-<p>Blossom, a tutor and developer specializing in STEM and computer science with a focus on creating useful solutions via development projects.</p>
+<p>Blossom Akpedeye is a dynamic tutor, software developer, and cybersecurity enthusiast with a passion for STEM and computer science. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.</p>
 
 <h5>Projects</h5>
 <ul>
-  <li><b>MealMe:</b> Flask-based app for meal planning</li>
-  <li><b>SecurePass:</b> A local password saver for secure storage</li>
+  <li><b>💡 MealMe </b>– A streamlined Flask-based meal planning application</li>
+  <li><b>🔐 SecurePass </b> – A secure, locally stored password manager</li>
 </ul>
 
-<h5>Skills</h5>
+<h5>Technical Skills</h5>
 <ul>
-  <li><b>Programming:</b> Python, Java, C, C++, Scheme, Prolog</li>
-  <li><b>Web Development:</b> HTML, CSS, JS, Node.js</li>
-  <li><b>Database-Management:</b> SQL, PostgreSQL, SQLite</li>
-  <li><b>Cybersecurity:</b> Wireshark, LinuxOS</li>
+   <li>💻 <strong>Software Development:</strong> Python, Java, Kotlin, C, C++</li>
+        <li>🌍 <strong>Web Technologies:</strong> HTML, CSS, JavaScript</li>
+        <li>🔧 <strong>Backend & Infrastructure:</strong> API Development, SQL, PostgreSQL</li>
+        <li>☁ <strong>IT & Cloud Services:</strong> Agile, Git/GitHub, Basic Networking (TCP/IP, Ports, DNS)</li>
+        <li>🔍 <strong>Cybersecurity:</strong> Google Cybersecurity Specialization, Linux</li>
+    </ul>
 </ul>
 
-<h5>News</h5>
+<h5>Recognition</h5>
 <ul>
-  <li><b>2023 - NCWIT Impact Award:</b> Recognized for online tutoring in CS with my business ✨Savvycle Online Tutoring.✨</li>
+  <li><b>🏆 2023 NCWIT Impact Award</b> Honored for excellence in computer science education through <b>SavvyCle Online Tutoring</b> ✨</li>
 </ul>
 
 <h5>Contact</h5>
-<p>I'm Antisocial. But you can reach out haha. Serious inquires only. Thanks :)</p>
+<p>Though I thrive in quiet productivity, I welcome meaningful connections and collaborations. Serious inquiries only—let’s make things happen.</p>
 
 <p>
-  <a href="https://linkedin.com/in/blossom-ea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://bakpede1.github.io/cv" target="blank"><img align="center" src="/img.png" alt="Personal Site" height="30" width="40" />CV Page</a>
+  <a href="https://linkedin.com/in/blossom-ea" target="blank"><img align="center"  alt="LinkedIn" height="30" width="40" /> LinkedIn</a>
+  <a href="https://bakpede1.github.io/cv" target="blank"><img align="center" g" alt="Personal Site" height="30" width="40" />Personal Site</a>
+  <a href="https://docs.google.com/document/d/1FnbpPd3kmRGk97Om0PRNJu6-ExEv0QlJyKgDT_Tfo1g/edit?usp=sharing" target="blank"><img align="center"  alt="Resume/CV" height="30" width="40" />CV</a>
 </p>
