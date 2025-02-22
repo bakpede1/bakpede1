@@ -11,12 +11,12 @@
 ---
 
 ## 🛠 Technical Skills
-## 💻 **Software Development:** Python, Java, C, C++  
-## 🌍 **Web Technologies:** HTML, CSS, JavaScript  
-## 🔧 **Backend & Infrastructure:** API Development, SQL, PostgreSQL  
-## ☁ **IT & Cloud Services:** Agile, Git/GitHub, Networking (TCP/IP, Ports, DNS)  
-## 🔍 **Cybersecurity:**  Google Cybersecurity Specialization, Linux Security  
-## 📊 **Data Management & Productivity Tools:**  Microsoft Excel, Google Sheets (GSheets), HubSpot, Airtable, MailChimp, CRM Systems 
+💻 **Software Development:** Python, Java, C, C++  
+🌍 **Web Technologies:** HTML, CSS, JavaScript  
+🔧 **Backend & Infrastructure:** API Development, SQL, PostgreSQL  
+☁ **IT & Cloud Services:** Agile, Git/GitHub, Networking (TCP/IP, Ports, DNS)  
+🔍 **Cybersecurity:**  Google Cybersecurity Specialization, Linux Security  
+📊 **Data Management & Productivity Tools:**  Microsoft Excel, Google Sheets (GSheets), HubSpot, Airtable, MailChimp, CRM Systems 
 
 ---
 
