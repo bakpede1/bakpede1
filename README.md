@@ -1,5 +1,5 @@
 # ✨ About
-**Blossom Akpedeye** is a dynamic **tutor**, **fashion creative and enthusiast**, **software developer**, and **cybersecurity pro**. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.
+**Blossom Akpedeye** is a **fashion creative and enthusiast**, **software developer**, and **cybersecurity pro**. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ## 🏆 Recognition
-- **2023 NCWIT Impact Award** – Honored for excellence in computer science education through **SavvyCle Online Tutoring** ✨
+- **2023 NCWIT Impact Award** – Honored for excellence in tutoring
 
 ---
 
