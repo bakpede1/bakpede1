@@ -7,12 +7,6 @@
 - **🔐 SecurePass** – A secure, locally stored password manager
 - **🛍️ Luxury E-Commerce Optimization** – Assisted luxury brands in improving **customer journeys, omnichannel sales, and digital storefronts**.  
 
----
-## 🏆 Recognition
-- **2023 NCWIT Impact Award** – Honored for excellence in tutoring
-
----
-
 ## 📬 Contact
 Blossom thrives in **fashion, luxury, and digital innovation**. Whether styling elite clients, enhancing **luxury e-commerce platforms**, or refining **brand engagement strategies**, she is committed to **delivering excellence and prestige**.  
 
