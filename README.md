@@ -1,6 +1,5 @@
 # ✨ About
-**Blossom Akpedeye** is a **fashion creative and enthusiast**, **software developer**, and **cybersecurity pro**. She specializes in crafting innovative solutions through software development and online education, empowering learners to excel in technical fields.
-
+**Blossom Akpedeye** is a **fashion creative and enthusiast**
 ---
 
 ## 🚀 Projects
